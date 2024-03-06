@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Example: Age Minimization of Multiple Flows using Reinforcement Learning",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "examples.aoi.age_minimization_of_multiple_flows_using_reinforcement_learning",
+            "cwd": "${workspaceFolder}/rl_examples",
+        }
+    ]
+}
