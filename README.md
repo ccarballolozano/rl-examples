@@ -40,3 +40,6 @@ Reinforcement Learning (RL) Examples
 
 - [Party or Relax](rl_examples/examples/dp/party_or_relax.py) | [Problem description](https://artint.info/3e/html/ArtInt3e.Ch12.S5.html)
 - [Stages Game](rl_examples/examples/dp/stages_game.py) | [Problem description](https://towardsdatascience.com/getting-started-with-markov-decision-processes-reinforcement-learning-ada7b4572ffb)
+
+### Epidemic models with confinements
+- [Efficiency of Symmetric Nash Equilibria in Epidemic Models with Confinements](examples/epidemic_with_confinements/paper_symmetric_nash_equilibria.py) | [Problem description](https://josudoncel.github.io/publicat/2023_Valuetools_SIRC_.pdf) | [Original code](https://github.com/josudoncel/StudentsCode/tree/main/MaiderSanchezJimenez)
