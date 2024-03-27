@@ -6,5 +6,5 @@ dependencies:
   - python=3.11.7
   - pip:
       - loguru==0.7.2
+      - matrplotlib==3.8.3
       - numpy==1.26.3
-      
