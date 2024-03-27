@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "examples.epidemic_with_confinements",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "examples.epidemic_with_confinements.main"
+        },
+        {
+            "name": "examples.epidemic_with_confinements.paper_symmetric_nash_equilibria",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "examples.epidemic_with_confinements.paper_symmetric_nash_equilibria",
+            "args": [
+                "--N",
+                "15"
+            ]
+        }
+    ]
+}
